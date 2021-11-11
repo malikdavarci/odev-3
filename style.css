@@ -2,17 +2,16 @@ body{
     background-color:aqua;
 }
 
-section {
-    position:absolute;
-
-}
-
 #malzemeler {
-    display: block;
-    text-align:right;
+    margin-left: 40%;
 }
 
 #yapılıs {
-    display: block;
-    text-align: left;
+    margin-right: 40%;
 }
+
+#afiyet {
+    text-emphasis-color: brown;
+    margin-left: 80%;
+}
+
