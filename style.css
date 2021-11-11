@@ -1,5 +1,18 @@
-.section {
-    position:absolute;
-    right:0px;
+body{
+    background-color:aqua;
+}
 
+section {
+    position:absolute;
+
+}
+
+#malzemeler {
+    display: block;
+    text-align:right;
+}
+
+#yapılıs {
+    display: block;
+    text-align: left;
 }
